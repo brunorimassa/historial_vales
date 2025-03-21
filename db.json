@@ -5,25 +5,24 @@
       "date": "2025-03-21",
       "format": "11",
       "status": "used"
-      
     },
     {
       "id": 2,
       "date": "2025-03-01",
       "format": "15",
-      "status": "invalid"    
+      "status": "invalid"
     },
     {
       "id": 3,
       "date": "2025-02-21",
       "format": "15",
-      "status": "used"    
+      "status": "used"
     },
     {
       "id": 4,
       "date": "2025-02-01",
       "format": "05",
-      "status": "used"    
+      "status": "used"
     }
   ]
 }
